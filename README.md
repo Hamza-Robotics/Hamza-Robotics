@@ -3,6 +3,8 @@
 
 Hi there! I'm a robotics engineer with a Master's degree from AAU Denmark, specializing in control theory. My passion for mathematics and engineering has driven me to focus on developing advanced solutions in robotics. I have experience in designing Non-Linear Model Predictive Controllers and working with different robotics-related software such as ROS2, PyTorch, SciKit, OpenCV, and Acados.
 
+Wanna look at my cv: [Just take a look](https://github.com/Hamza-Robotics/Hamza-Robotics/blob/main/cv2025.pdf). 
+
 ---
 
 ### 📚 Featured Projects
