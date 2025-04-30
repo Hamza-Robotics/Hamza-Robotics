@@ -18,7 +18,7 @@ Developed Kalman filters for satellite attitude determination and the Simulink s
 #### [Affordance Estimation in Assistive Robotics](https://github.com/Hamza-Robotics/p6-projekt)  
 Created a robotic system using 3D point cloud processing and machine learning to estimate grasp affordances for assisting tetraplegic patients with novel object manipulation.
 
-#### [Collaborative Eye Tracking with Robot Interaction](https://github.com/example/eye-tracking-robot-interaction)  
+#### [Collaborative Eye Tracking with Robot Interaction](https://github.com/Hamza-Robotics/Rob8Robot)  
 Built a system for human-robot collaboration using eye gaze intention inference and pose detection. 
 
 #### [Python - Festo PLC Communication](https://github.com/Hamza-Robotics/MiniprojecktSAF)  
